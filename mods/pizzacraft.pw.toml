@@ -1,0 +1,13 @@
+name = "PizzaCraft"
+filename = "PizzaCraft-1.18.2-5.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7BXEGho2/versions/uPCBUUEA/PizzaCraft-1.18.2-5.1.7.jar"
+hash-format = "sha1"
+hash = "d098e553022d4b6dd0e70ecf34c537eb5731db1f"
+
+[update]
+[update.modrinth]
+mod-id = "7BXEGho2"
+version = "uPCBUUEA"

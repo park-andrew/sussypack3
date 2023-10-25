@@ -1,0 +1,13 @@
+name = "Async Locator"
+filename = "asynclocator-1.18.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rkN8aqci/versions/1LfmLckQ/asynclocator-1.18.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "8f0f9a6a2058c7f70e8b28b0872091a076af3ec4"
+
+[update]
+[update.modrinth]
+mod-id = "rkN8aqci"
+version = "1LfmLckQ"

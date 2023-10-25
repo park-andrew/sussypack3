@@ -1,0 +1,13 @@
+name = "Small Ships"
+filename = "smallships-forge-1.18.2-2.0.0-a2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rGWEHQrP/versions/vimEHEaS/smallships-forge-1.18.2-2.0.0-a2.3.1.jar"
+hash-format = "sha1"
+hash = "47c511b46ae0f2f2d982cd681ef9983169296d22"
+
+[update]
+[update.modrinth]
+mod-id = "rGWEHQrP"
+version = "vimEHEaS"

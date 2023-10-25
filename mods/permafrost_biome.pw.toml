@@ -1,0 +1,13 @@
+name = "permafrost biome"
+filename = "perma_frost_biome_1.18.2_3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PPv0ObGd/versions/perma_frost_biome_1.18.2_3.jar/perma_frost_biome_1.18.2_3.jar"
+hash-format = "sha1"
+hash = "528eb80ca98b6fd2684f2a0d5c4906cdd2395cff"
+
+[update]
+[update.modrinth]
+mod-id = "PPv0ObGd"
+version = "lmuTWxQy"

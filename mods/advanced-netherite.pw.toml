@@ -1,0 +1,13 @@
+name = "Advanced Netherite"
+filename = "advancednetherite-1.14.7-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CFX9ftUJ/versions/hncu429t/advancednetherite-1.14.7-1.18.2.jar"
+hash-format = "sha1"
+hash = "b169311570343affe39e26856d726130186668dc"
+
+[update]
+[update.modrinth]
+mod-id = "CFX9ftUJ"
+version = "hncu429t"

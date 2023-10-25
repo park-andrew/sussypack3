@@ -1,0 +1,13 @@
+name = "Frosted Friends"
+filename = "frosted-friends-1.18.2-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lgn5Vvuw/versions/1.0.6/frosted-friends-1.18.2-1.0.6.jar"
+hash-format = "sha1"
+hash = "be27c4e3931e2ee25a66dc10ff6c9f1da7ef3460"
+
+[update]
+[update.modrinth]
+mod-id = "Lgn5Vvuw"
+version = "mWZlxvFo"

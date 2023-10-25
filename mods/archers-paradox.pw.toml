@@ -1,0 +1,13 @@
+name = "Archer's Paradox"
+filename = "archers_paradox-1.18.2-3.2.1.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/euzGeN6k/versions/8rqO6OYK/archers_paradox-1.18.2-3.2.1.15.jar"
+hash-format = "sha1"
+hash = "23e360aae71ff7cdac36bec24ebf964aaaec6458"
+
+[update]
+[update.modrinth]
+mod-id = "euzGeN6k"
+version = "8rqO6OYK"

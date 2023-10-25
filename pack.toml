@@ -1,0 +1,13 @@
+name = "Sussypack 3"
+author = "Andrew"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fd6b5ebbf3e7164f030f00440467fe5c86bb542faeb2eae2134a0f0f59947e15"
+
+[versions]
+forge = "40.2.10"
+minecraft = "1.18.2"

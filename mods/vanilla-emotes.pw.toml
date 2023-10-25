@@ -1,0 +1,13 @@
+name = "Vanilla Emotes"
+filename = "vanilla-emotes-1.0-DP.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TxATHYTc/versions/SLjTcnHu/vanilla-emotes-1.0-DP.jar"
+hash-format = "sha1"
+hash = "09f5f3586c77c8028bf164e042a85366568382ee"
+
+[update]
+[update.modrinth]
+mod-id = "TxATHYTc"
+version = "SLjTcnHu"

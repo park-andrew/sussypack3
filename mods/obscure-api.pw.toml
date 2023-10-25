@@ -1,0 +1,13 @@
+name = "Obscure API"
+filename = "obscure_api-10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fU7jbFHc/versions/1MoKZMi2/obscure_api-10.jar"
+hash-format = "sha1"
+hash = "00e892f50abad5d49baf79829f51002d13f3b73d"
+
+[update]
+[update.modrinth]
+mod-id = "fU7jbFHc"
+version = "1MoKZMi2"

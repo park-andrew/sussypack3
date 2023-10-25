@@ -1,0 +1,13 @@
+name = "SWUTM's Extra Dungeons"
+filename = "swutmextradungeons-1.0.2-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yXPxEptB/versions/CrpBKFZm/swutmextradungeons-1.0.2-1.18.2.jar"
+hash-format = "sha1"
+hash = "f4bdd83c732a2d464cfa096b9a3d603dcd9de4bd"
+
+[update]
+[update.modrinth]
+mod-id = "yXPxEptB"
+version = "CrpBKFZm"

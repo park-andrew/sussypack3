@@ -1,0 +1,13 @@
+name = "Deeper Oceans"
+filename = "deeper-oceans-mc1.18.2-v1.0.1a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yqHsPROA/versions/jgIwBmu0/deeper-oceans-mc1.18.2-v1.0.1a.jar"
+hash-format = "sha1"
+hash = "5f1c0c5d221c4e02bf5d2a33d7d41a9fcdf478d9"
+
+[update]
+[update.modrinth]
+mod-id = "yqHsPROA"
+version = "jgIwBmu0"

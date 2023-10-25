@@ -1,0 +1,13 @@
+name = "YDM's Spellswords"
+filename = "spellsword-1-18-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3aTp0j9G/versions/hhpAS2lZ/spellsword-1-18-1.jar"
+hash-format = "sha1"
+hash = "001e4b2ffdb607beb08960de33b0a94d74bb4853"
+
+[update]
+[update.modrinth]
+mod-id = "3aTp0j9G"
+version = "hhpAS2lZ"

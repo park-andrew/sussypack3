@@ -1,0 +1,13 @@
+name = "YDM's Vulture"
+filename = "vulture-forge-1.18.2-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oV7Y7Ydp/versions/FXvpSDkS/vulture-forge-1.18.2-1.0.jar"
+hash-format = "sha1"
+hash = "8e6278e7d2899154dcc66ba1b0bc9ab2de6d2f06"
+
+[update]
+[update.modrinth]
+mod-id = "oV7Y7Ydp"
+version = "FXvpSDkS"

@@ -1,0 +1,13 @@
+name = "Sulfur and Potassium"
+filename = "sulfurpotassiummod-1.18.2-2.3.3+Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tjip5qzR/versions/2.3.3/sulfurpotassiummod-1.18.2-2.3.3%2BForge.jar"
+hash-format = "sha1"
+hash = "22d18681fe1960e4f32d2524994c1db582cf17a7"
+
+[update]
+[update.modrinth]
+mod-id = "Tjip5qzR"
+version = "vwgx8Z77"

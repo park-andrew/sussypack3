@@ -1,0 +1,13 @@
+name = "Randomium Ore"
+filename = "randomium-1.18.2-1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lz9WMhfG/versions/FKSyMI51/randomium-1.18.2-1.9.jar"
+hash-format = "sha1"
+hash = "73d088960d5833fb7d3f7a64df317a2b2941102e"
+
+[update]
+[update.modrinth]
+mod-id = "lz9WMhfG"
+version = "FKSyMI51"

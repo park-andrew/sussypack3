@@ -1,0 +1,13 @@
+name = "more ships"
+filename = "more_ships_1.18.2_4.1_Raphlon7mise.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CewvovqI/versions/Cp2o0YA4/more_ships_1.18.2_4.1_Raphlon7mise.jar"
+hash-format = "sha1"
+hash = "80f7a2207f2d146396b62c62c3f9154b6d9d62f0"
+
+[update]
+[update.modrinth]
+mod-id = "CewvovqI"
+version = "Cp2o0YA4"

@@ -1,0 +1,13 @@
+name = "Create: Interiors"
+filename = "interiors-v0.4.1-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r4Knci2k/versions/qM7Y55Cq/interiors-v0.4.1-1.18.2.jar"
+hash-format = "sha1"
+hash = "97b930fd5434afbde82ea638b06446baf296c5d4"
+
+[update]
+[update.modrinth]
+mod-id = "r4Knci2k"
+version = "qM7Y55Cq"

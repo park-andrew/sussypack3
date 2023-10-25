@@ -1,0 +1,13 @@
+name = "Ships"
+filename = "ships-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M185nxi6/versions/FogpnwlQ/ships-1.1.jar"
+hash-format = "sha1"
+hash = "c0a7ecd0287104e98e640aa57dacbc9f459f59bc"
+
+[update]
+[update.modrinth]
+mod-id = "M185nxi6"
+version = "FogpnwlQ"

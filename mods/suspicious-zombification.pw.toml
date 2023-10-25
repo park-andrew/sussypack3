@@ -1,0 +1,13 @@
+name = "Suspicious Zombification"
+filename = "suszombification-1.18.2-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HE8pl71X/versions/xE7568OJ/suszombification-1.18.2-1.2.1.jar"
+hash-format = "sha1"
+hash = "547b00435c00b385aa2f3c91b5cf0a63e87b99cb"
+
+[update]
+[update.modrinth]
+mod-id = "HE8pl71X"
+version = "xE7568OJ"

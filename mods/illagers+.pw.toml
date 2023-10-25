@@ -1,0 +1,13 @@
+name = "Illagers+"
+filename = "illagers_plus-ALPHA-1.18.1v2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HjDyU6dR/versions/6WSCIoez/illagers_plus-ALPHA-1.18.1v2.3.jar"
+hash-format = "sha1"
+hash = "0788a3b8b03b1aa83af3e5d87285139c3241baeb"
+
+[update]
+[update.modrinth]
+mod-id = "HjDyU6dR"
+version = "6WSCIoez"

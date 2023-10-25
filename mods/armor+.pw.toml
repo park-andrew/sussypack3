@@ -1,0 +1,13 @@
+name = "Armor+"
+filename = "Armor+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1fveLB1r/versions/yAm4DpJr/Armor%2B.jar"
+hash-format = "sha1"
+hash = "b97908474e814f03202b2bdb792122129344a43e"
+
+[update]
+[update.modrinth]
+mod-id = "1fveLB1r"
+version = "yAm4DpJr"

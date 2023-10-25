@@ -1,0 +1,13 @@
+name = "Advancements Tracker"
+filename = "advancements_tracker_1.18.2-1.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ASIm7qwa/versions/IXGF2eJ9/advancements_tracker_1.18.2-1.6.1.jar"
+hash-format = "sha1"
+hash = "f8c57b56332e0addebaba142c11b2cb3111f4623"
+
+[update]
+[update.modrinth]
+mod-id = "ASIm7qwa"
+version = "IXGF2eJ9"

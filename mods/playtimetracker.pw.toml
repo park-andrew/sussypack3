@@ -1,0 +1,13 @@
+name = "Playtime Tracker"
+filename = "playtimetracker-2023.0611.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hiwqofoo/versions/I4GECxK7/playtimetracker-2023.0611.jar"
+hash-format = "sha1"
+hash = "97f8276909b8c14fe5de233135f2bad2cbc21d2c"
+
+[update]
+[update.modrinth]
+mod-id = "hiwqofoo"
+version = "I4GECxK7"
